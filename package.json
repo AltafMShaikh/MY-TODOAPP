@@ -11,7 +11,7 @@
     "todo",
     "app"
   ],
-  "author": "Altaf",
+  "author": "altaf",
   "license": "",
   "dependencies": {
     "body-parser": "^1.19.0",
