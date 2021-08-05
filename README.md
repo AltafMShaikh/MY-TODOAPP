@@ -7,6 +7,6 @@ $ npm install
 $ npm install --save-dev nodemon
 # To run the project use command
 $ nodemon index.js
-# Server run on localhost:7000
+# Server run on localhost:7000 
 
 
