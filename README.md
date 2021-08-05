@@ -2,9 +2,11 @@
 
 Download the files or clone the repository in your desktop
 
-run this command 
+# Run this command 
 $ npm install
 $ npm install --save-dev nodemon
- Server run on localhost:7000
+# TO run the project use command
+$ nodemon index.js
+ # Server run on localhost:7000
 
 
